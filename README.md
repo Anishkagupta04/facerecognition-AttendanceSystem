@@ -26,8 +26,7 @@ facerecognition-AttendanceSystem
 │   ├── images
 │   └── labels.csv
 ├── main.py
-├── ut![WhatsApp Image 2024-09-04 at 11 14 05 AM](https://github.com/user-attachments/assets/e6fffc3d-6709-435c-95de-7ecf12ec7de1)
-ils.py
+├── utils.py
 
 dataset: Contains the image dataset for training and recognition.
 
@@ -90,6 +89,8 @@ Dataset: Increase the number of images per individual for better accuracy.
 Performance: Adjust parameters like threshold values and image preprocessing techniques to optimize performance.
 
 Firebase: Customize the Firebase database structure to store additional student information as needed.
+
+RESULT
 
 ![WhatsApp Image 2024-09-04 at 11 13 57 AM](https://github.com/user-attachments/assets/ac2c56a2-f7c3-45b7-ad81-b55c20a0c24d)
 ![WhatsApp Image 2024-09-04 at 11 13 51 AM](https://github.com/user-attachments/assets/cc6751de-179b-4401-9958-20afc2a2ad25)
