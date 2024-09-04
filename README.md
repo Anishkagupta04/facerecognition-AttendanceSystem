@@ -1,4 +1,4 @@
-# facerecognition-AttendanceSystem
+# FaceRecognition-AttendanceSystem
 Introduction
 
 This project implements a face recognition-based attendance system using OpenCV and Firebase. It leverages the power of facial recognition to mark attendance efficiently and accurately, while storing attendance data on a Firebase database.
